@@ -47,7 +47,7 @@ def auto_reply(msg):
         airtable_bulk_update(ticker_map)
         ticker_map.clear()
         counter[0] = 0
-        return "https://airtable.com/shrLdYMX4LrW6cUpb"
+        return "https://airtable.com/shrcxCuzzyfbwEOTB"
     else:
         pass
 
