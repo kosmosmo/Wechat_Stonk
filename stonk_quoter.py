@@ -127,6 +127,4 @@ class stonk(object):
             )
         return res
 
-a = stonk('bad')
-print (a.flag)
 
